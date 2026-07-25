@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact_Me-a6e3a1?style=for-the-badge&logo=gmail&logoColor=1e1e2e)](mailto:dev@somnus.wiki)
 
 [![SWJTU](https://img.shields.io/badge/SWJTU-IME-89b4fa?style=for-the-badge&logo=google-scholar&logoColor=1e1e2e)](https://www.swjtu.edu.cn/)
-[![UCAS](https://img.shields.io/badge/UCAS-ICT_AI-f38ba8?style=for-the-badge&logo=google-scholar&logoColor=1e1e2e)](https://english.ict.cas.cn/)
+[![UCAS](https://img.shields.io/badge/UCAS,ICT-AI-f38ba8?style=for-the-badge&logo=google-scholar&logoColor=1e1e2e)](https://english.ict.cas.cn/)
 [![Location](https://img.shields.io/badge/Nanjing-China-fab387?style=for-the-badge&logo=googlemaps&logoColor=1e1e2e)](https://www.openstreetmap.org/search?query=Nanjing)
 
 [![WakaTime](https://img.shields.io/badge/WakaTime-Tracking-94e2d5?style=for-the-badge&logo=wakatime&logoColor=1e1e2e)](https://wakatime.com/)
@@ -23,7 +23,7 @@
 
 - 🎓 M.Eng. in Artificial Intelligence @ Institute of Computing Technology, UCAS
 - 🎓 B.Eng. in Intelligent Manufacturing Engineering @ Southwest Jiaotong University
-- 🧭 Based in Beijing
+- 🧭 Based in Nanjing
 - 🦀 Building and learning with Rust, Python, TypeScript and JavaScript
 - 🤖 Exploring LLM applications, developer tools and practical automation
 - 💬 “Talk is cheap. Show me the code.”
@@ -64,18 +64,15 @@ A WeChat mini program for collecting and reporting daily e-commerce sales data.
 ### [Superlabel](https://github.com/somnus0917/superlabel)
 An e-commerce merchant data aggregation and operational analytics platform.
 
-## GitHub snapshot
+## GitHub activity
 
 <div align="center">
-
-<img width="48%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repository" />
-<img width="48%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commit" />
-
-<img width="48%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" />
-<img width="48%" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=somnus0917&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-
+<img
+  width="96%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=somnus0917&theme=github-compact&hide_border=true&area=true"
+  alt="GitHub contribution activity graph"
+/>
+<br>
 </div>
 
 ## Coding activity
