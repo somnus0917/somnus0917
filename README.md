@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm chen lei 👋
+# Hi, I'm Chen Lei 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=89b4fa&center=true&vCenter=true&width=680&lines=M.Eng.+in+AI+%40+ICT%2C+UCAS;B.Eng.+in+IME+%40+SWJTU;Rust+%C2%B7+Python+%C2%B7+TypeScript;Build%2C+learn%2C+and+ship." alt="Typing introduction" />
 
@@ -32,18 +32,47 @@
 ## Toolbox
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=rust,python,ts,js,html,css,git,linux,vscode,github&perline=10" alt="Rust, Python, TypeScript, JavaScript, HTML, CSS, Git, Linux, VS Code and GitHub" />
+<img
+  src="https://skillicons.dev/icons?i=rust,python,ts,pytorch"
+  alt="Rust, Python, TypeScript and PyTorch"
+/>
+<img
+  src="https://skillicons.dev/icons?i=arch,bash"
+  alt="Arch Linux and Bash"
+/>
+<img src="./assets/zed.svg" width="48" height="48" alt="Zed" />
+<img
+  src="https://skillicons.dev/icons?i=docker,git,githubactions,postgres,cloudflare"
+  alt="Docker, Git, GitHub Actions, PostgreSQL and Cloudflare"
+/>
 
 </div>
 
+## Featured projects
+
+### [Model Weight Parser](https://github.com/somnus0917/modelWeightParser)
+A Rust-based tool for inspecting Safetensors model weights, tensor shapes
+and data types, with an interactive Ratatui interface.
+
+### [Markdown Editor](https://github.com/somnus0917/markdown-editor)
+A local cross-platform Markdown editor with live preview, MathJax support
+and a clean Typora-inspired interface.
+
+### [FF Daily Summary](https://github.com/somnus0917/ffdaily-summary-miniprogram)
+A WeChat mini program for collecting and reporting daily e-commerce sales data.
+
+### [Superlabel](https://github.com/somnus0917/superlabel)
+An e-commerce merchant data aggregation and operational analytics platform.
 
 ## GitHub snapshot
 
 <div align="center">
 
-<img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" />
-<img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" />
+<img width="48%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repository" />
+<img width="48%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commit" />
+
+<img width="48%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" />
+<img width="48%" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=somnus0917&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 
