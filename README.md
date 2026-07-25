@@ -1,22 +1,35 @@
 <div align="center">
 
-# Hi, I'm Chen Lei 👋
+# Hi, I'm chen lei 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Software+Engineering+%40+SWJTU;Rust+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+AI;Build%2C+learn%2C+and+ship." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=89b4fa&center=true&vCenter=true&width=680&lines=M.Eng.+in+AI+%40+ICT%2C+UCAS;B.Eng.+in+IME+%40+SWJTU;Rust+%C2%B7+Python+%C2%B7+TypeScript;Build%2C+learn%2C+and+ship." alt="Typing introduction" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-somnus0917-181717?style=for-the-badge&logo=github)](https://github.com/somnus0917)
-[![SWJTU](https://img.shields.io/badge/SWJTU-Software_Engineering-005BAC?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.swjtu.edu.cn/)
-[![Location](https://img.shields.io/badge/Chengdu-China-0A7EA4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.openstreetmap.org/search?query=Chengdu)
+<div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-somnus0917-1e1e2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/somnus0917)
+[![Ghost Blog](https://img.shields.io/badge/Personal_Blog-Ghost-cba6f7?style=for-the-badge&logo=ghost&logoColor=white)](https://blog.somnus.wiki)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-a6e3a1?style=for-the-badge&logo=gmail&logoColor=1e1e2e)](mailto:dev@somnus.wiki)
+
+[![SWJTU](https://img.shields.io/badge/SWJTU-IME-89b4fa?style=for-the-badge&logo=google-scholar&logoColor=1e1e2e)](https://www.swjtu.edu.cn/)
+[![UCAS](https://img.shields.io/badge/UCAS-ICT_AI-f38ba8?style=for-the-badge&logo=google-scholar&logoColor=1e1e2e)](https://english.ict.cas.cn/)
+[![Location](https://img.shields.io/badge/Nanjing-China-fab387?style=for-the-badge&logo=googlemaps&logoColor=1e1e2e)](https://www.openstreetmap.org/search?query=Nanjing)
+
+[![WakaTime](https://img.shields.io/badge/WakaTime-Tracking-94e2d5?style=for-the-badge&logo=wakatime&logoColor=1e1e2e)](https://wakatime.com/)
+
+</div>
 </div>
 
 ## About me
 
-- 🎓 Software Engineering student at Southwest Jiaotong University
-- 🧭 Based in Chengdu, Sichuan
+## About me
+
+- 🎓 M.Eng. in Artificial Intelligence @ Institute of Computing Technology, UCAS
+- 🎓 B.Eng. in Intelligent Manufacturing Engineering @ Southwest Jiaotong University
+- 🧭 Based in Beijing
 - 🦀 Building and learning with Rust, Python, TypeScript and JavaScript
 - 🤖 Exploring LLM applications, developer tools and practical automation
 - 💬 “Talk is cheap. Show me the code.”
+
 
 ## Toolbox
 
@@ -26,31 +39,13 @@
 
 </div>
 
-## Featured work
-
-<div align="center">
-
-<a href="https://github.com/somnus0917/superlabel">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=somnus0917&repo=superlabel&theme=github_dark&hide_border=true" alt="superlabel repository" />
-</a>
-<a href="https://github.com/somnus0917/weatherMail">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=somnus0917&repo=weatherMail&theme=github_dark&hide_border=true" alt="weatherMail repository" />
-</a>
-<a href="https://github.com/somnus0917/markdown-editor">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=somnus0917&repo=markdown-editor&theme=github_dark&hide_border=true" alt="markdown-editor repository" />
-</a>
-<a href="https://github.com/somnus0917/modelWeightParser">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=somnus0917&repo=modelWeightParser&theme=github_dark&hide_border=true" alt="modelWeightParser repository" />
-</a>
-
-</div>
 
 ## GitHub snapshot
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=somnus0917&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somnus0917&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=somnus0917&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&random=1" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somnus0917&layout=compact&theme=github_dark&hide_border=true&langs_count=8&random=1" alt="Most used languages" />
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=somnus0917&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 
