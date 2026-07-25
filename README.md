@@ -59,11 +59,13 @@
 ## Coding activity
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-977.18%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.01%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 201.4 kB Used in GitHub's Storage 
  > 
 > 🏆 546 Contributions in the Year 2026
  > 
@@ -71,22 +73,61 @@
  > 
 > 📜 36 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+🌆 Daytime                880 commits         ███████████░░░░░░░░░░░░░░   44.38 % 
+🌃 Evening                642 commits         ████████░░░░░░░░░░░░░░░░░   32.38 % 
+🌙 Night                  219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   438 commits         ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+Tuesday                  308 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Wednesday                387 commits         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Thursday                 348 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Friday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Saturday                 134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Sunday                   145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     11 repos            ██████████░░░░░░░░░░░░░░░   39.29 % 
-Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Rust                     11 repos            █████████░░░░░░░░░░░░░░░░   37.93 % 
+Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 ```
 
 
 
 
- Last Updated on 24/07/2026 21:29:40 UTC
+ Last Updated on 25/07/2026 08:24:10 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
