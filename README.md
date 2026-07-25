@@ -42,8 +42,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=somnus0917&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&random=1" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somnus0917&layout=compact&theme=github_dark&hide_border=true&langs_count=8&random=1" alt="Most used languages" />
+<img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" />
+<img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" />
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=somnus0917&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 
