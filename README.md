@@ -21,8 +21,6 @@
 
 ## About me
 
-## About me
-
 - 🎓 M.Eng. in Artificial Intelligence @ Institute of Computing Technology, UCAS
 - 🎓 B.Eng. in Intelligent Manufacturing Engineering @ Southwest Jiaotong University
 - 🧭 Based in Beijing
