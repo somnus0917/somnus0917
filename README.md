@@ -6,15 +6,14 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-somnus0917-1e1e2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/somnus0917)
 [![Ghost Blog](https://img.shields.io/badge/Personal_Blog-Ghost-cba6f7?style=for-the-badge&logo=ghost&logoColor=white)](https://blog.somnus.wiki)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-a6e3a1?style=for-the-badge&logo=gmail&logoColor=1e1e2e)](mailto:dev@somnus.wiki)
+[![Resume](https://img.shields.io/badge/Resume-View-94e2d5?style=for-the-badge&logo=readme&logoColor=1e1e2e)](https://resume.somnus.wiki/zh/)
+
 
 [![SWJTU](https://img.shields.io/badge/SWJTU-IME-89b4fa?style=for-the-badge&logo=google-scholar&logoColor=1e1e2e)](https://www.swjtu.edu.cn/)
 [![UCAS](https://img.shields.io/badge/UCAS,ICT-AI-f38ba8?style=for-the-badge&logo=google-scholar&logoColor=1e1e2e)](https://english.ict.cas.cn/)
-[![Location](https://img.shields.io/badge/Nanjing-China-fab387?style=for-the-badge&logo=googlemaps&logoColor=1e1e2e)](https://www.openstreetmap.org/search?query=Nanjing)
 
-[![WakaTime](https://img.shields.io/badge/WakaTime-Tracking-94e2d5?style=for-the-badge&logo=wakatime&logoColor=1e1e2e)](https://wakatime.com/)
 
 </div>
 </div>
@@ -37,10 +36,21 @@
   alt="Rust, Python, TypeScript and PyTorch"
 />
 <img
-  src="https://skillicons.dev/icons?i=arch,bash"
-  alt="Arch Linux and Bash"
+  src="https://cdn.jsdelivr.net/gh/somnus0917/somnus0917@main/assets/cachyos.svg"
+  width="48"
+  height="48"
+  alt="CachyOS"
 />
-<img src="./assets/zed.svg" width="48" height="48" alt="Zed" />
+<img
+  src="https://skillicons.dev/icons?i=bash"
+  alt="Bash"
+/>
+<img
+  src="https://cdn.jsdelivr.net/gh/somnus0917/somnus0917@main/assets/zed.svg"
+  width="48"
+  height="48"
+  alt="Zed"
+/>
 <img
   src="https://skillicons.dev/icons?i=docker,git,githubactions,postgres,cloudflare"
   alt="Docker, Git, GitHub Actions, PostgreSQL and Cloudflare"
