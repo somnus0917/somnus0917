@@ -131,16 +131,26 @@ Sunday                   145 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     43 mins             ████████░░░░░░░░░░░░░░░░░   30.58 % 
+Markdown                 36 mins             ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+Bash                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+Python                   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+jsonc                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 26 mins        ██████████████░░░░░░░░░░░   54.97 % 
+Antigravity CLI          35 mins             ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+Zed                      26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Unknown Editor           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+luopanhacker             1 hr 26 mins        ██████████████░░░░░░░░░░░   54.97 % 
+somnus0917               50 mins             ████████░░░░░░░░░░░░░░░░░   32.12 % 
+ghost-blog               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -156,7 +166,7 @@ HTML                     3 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 08:24:10 UTC
+ Last Updated on 25/07/2026 21:06:56 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
