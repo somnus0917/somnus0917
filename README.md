@@ -88,13 +88,11 @@ An e-commerce merchant data aggregation and operational analytics platform.
 ## Coding activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.01%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 201.4 kB Used in GitHub's Storage 
+> 📦 201.5 kB Used in GitHub's Storage 
  > 
 > 🏆 546 Contributions in the Year 2026
  > 
@@ -102,7 +100,7 @@ An e-commerce merchant data aggregation and operational analytics platform.
  > 
 > 📜 36 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -131,42 +129,43 @@ Sunday                   145 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     43 mins             ████████░░░░░░░░░░░░░░░░░   30.58 % 
-Markdown                 36 mins             ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-Bash                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-Python                   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-jsonc                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Bash                     35 mins             ██████████░░░░░░░░░░░░░░░   39.90 % 
+Markdown                 26 mins             ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+HTML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+git ignore               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+jsonc                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 
 🔥 Editors: 
-VS Code                  1 hr 26 mins        ██████████████░░░░░░░░░░░   54.97 % 
-Antigravity CLI          35 mins             ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-Zed                      26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Unknown Editor           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Zed                      59 mins             ██████████████░░░░░░░░░░░   56.92 % 
+Antigravity CLI          35 mins             █████████░░░░░░░░░░░░░░░░   34.19 % 
+Unknown Editor           8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🐱‍💻 Projects: 
-luopanhacker             1 hr 26 mins        ██████████████░░░░░░░░░░░   54.97 % 
-somnus0917               50 mins             ████████░░░░░░░░░░░░░░░░░   32.12 % 
-ghost-blog               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+somnus0917               1 hr 2 mins         ███████████████░░░░░░░░░░   59.25 % 
+resume                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+ghost-blog               15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+luopanhacker             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 💻 Operating System: 
-Linux                    2 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     11 repos            █████████░░░░░░░░░░░░░░░░   37.93 % 
-Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Rust                     11 repos            █████████░░░░░░░░░░░░░░░░   36.67 % 
+Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
 
 
- Last Updated on 25/07/2026 21:06:56 UTC
+ Last Updated on 26/07/2026 21:09:14 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
