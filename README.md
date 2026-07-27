@@ -88,38 +88,42 @@ An e-commerce merchant data aggregation and operational analytics platform.
 ## Coding activity
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.01%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2058%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2025%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.03%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 201.5 kB Used in GitHub's Storage 
+> 📦 203.0 kB Used in GitHub's Storage 
  > 
-> 🏆 546 Contributions in the Year 2026
+> 🏆 573 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-🌆 Daytime                880 commits         ███████████░░░░░░░░░░░░░░   44.38 % 
-🌃 Evening                642 commits         ████████░░░░░░░░░░░░░░░░░   32.38 % 
-🌙 Night                  219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+🌞 Morning                243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+🌆 Daytime                884 commits         ███████████░░░░░░░░░░░░░░   44.00 % 
+🌃 Evening                663 commits         ████████░░░░░░░░░░░░░░░░░   33.00 % 
+🌙 Night                  219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   438 commits         ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Tuesday                  308 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Wednesday                387 commits         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Thursday                 348 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Friday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Saturday                 134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Sunday                   145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Monday                   464 commits         ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+Tuesday                  308 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Wednesday                387 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Thursday                 348 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Friday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Saturday                 134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Sunday                   145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 ```
 
 
@@ -129,43 +133,65 @@ Sunday                   145 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     35 mins             ██████████░░░░░░░░░░░░░░░   39.90 % 
-Markdown                 26 mins             ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-HTML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-git ignore               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-jsonc                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Bash                     35 mins             ██████████░░░░░░░░░░░░░░░   39.47 % 
+Markdown                 26 mins             ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+HTML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+git ignore               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+jsonc                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 🔥 Editors: 
-Zed                      59 mins             ██████████████░░░░░░░░░░░   56.92 % 
-Antigravity CLI          35 mins             █████████░░░░░░░░░░░░░░░░   34.19 % 
-Unknown Editor           8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Zed                      59 mins             ██████████████░░░░░░░░░░░   56.39 % 
+Antigravity CLI          35 mins             ████████░░░░░░░░░░░░░░░░░   33.87 % 
+Unknown Editor           8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🐱‍💻 Projects: 
-somnus0917               1 hr 2 mins         ███████████████░░░░░░░░░░   59.25 % 
-resume                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-ghost-blog               15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-luopanhacker             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+somnus0917               1 hr 2 mins         ███████████████░░░░░░░░░░   58.71 % 
+resume                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+ghost-blog               15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+luopanhacker             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 Operating System: 
-Linux                    1 hr 44 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 45 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 37 mins (41.64%)
+
+✍️ 0 lines written by AI, 214 lines written by hand (0.0% AI-written)
+
+🔤 359,705 Input Tokens, 2,060 Output Tokens
+
+💵 $1.86 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 32 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 185 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     11 repos            █████████░░░░░░░░░░░░░░░░   36.67 % 
-Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Rust                     11 repos            █████████░░░░░░░░░░░░░░░░   35.48 % 
+Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 ```
 
 
 
 
- Last Updated on 26/07/2026 21:09:14 UTC
+ Last Updated on 27/07/2026 21:28:42 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
