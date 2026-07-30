@@ -61,19 +61,19 @@
 ## Featured projects
 
 ### [luopanhacker](https://github.com/somnus0917/luopanhacker)
-LuopanHacker is a business data collection and analysis platform for Tiktok e-commerce compass. It automatically collects data through Python, and Rust handles task orchestration, data storage, and backend services. The system provides dashboards for operation, inventory, settlement, and collection status, and supports multi-store management, order import, permission control, and Docker automated deployment.
+**Live website.** A TikTok e-commerce data platform for multi-store collection, analysis, and operations.
 
 ### [RAFT Stereo Ultra](https://github.com/somnus0917/RAFT-Stereo)
-This is an improved project based on RAFT-Stereo (3DV 2021 stereo matching network). An optional convolutional refinement module (RefinementHead) is added after the disparity map output by the original model for residual correction. At the same time, the backbone network is reconstructed using depthwise separable convolution, resulting in a lightweight version of the model (RAFT-Stereo-Lite) with fewer parameters and faster inference.
+**Published undergraduate thesis.** A lightweight, refined RAFT-Stereo model for faster stereo matching.
 
 ### [FF Daily Summary](https://github.com/somnus0917/ffdaily-summary-miniprogram)
-This is a combination of a WeChat mini-program and a lightweight Node.js backend, designed to quickly organize daily sales figures reported by various departments within WeChat groups into a sales summary text that can be directly copied and pasted into the headquarters group. 
+**Live WeChat Mini Program.** Turns daily sales updates into shareable summaries in seconds.
 
 ### [Superlabel](https://github.com/somnus0917/superlabel)
-SuperLabel is a lightweight desktop annotation tool developed based on Tauri, SolidJS, and Rust, focusing on rapid manual annotation of object detection datasets. It supports a local-first workflow and ONNX-assisted pre-annotation.
+**Released desktop app.** A local-first object-detection annotation tool with ONNX-assisted labeling.
 
 ### [ripfullpage](https://github.com/somnus0917/ripfullpage.git)
-This is a native Chrome screenshot extension based on Manifest V3, supporting full-page screenshots, custom area screenshots, screenshot editing, and PNG downloads, without relying on any frameworks or third-party libraries. 
+**Live on the Chrome Web Store.** A native extension for full-page and area screenshots.
 
 ## GitHub activity
 
