@@ -60,19 +60,20 @@
 
 ## Featured projects
 
-### [Model Weight Parser](https://github.com/somnus0917/modelWeightParser)
-A Rust-based tool for inspecting Safetensors model weights, tensor shapes
-and data types, with an interactive Ratatui interface.
+### [luopanhacker](https://github.com/somnus0917/luopanhacker)
+LuopanHacker is a business data collection and analysis platform for Tiktok e-commerce compass. It automatically collects data through Python, and Rust handles task orchestration, data storage, and backend services. The system provides dashboards for operation, inventory, settlement, and collection status, and supports multi-store management, order import, permission control, and Docker automated deployment.
 
-### [Markdown Editor](https://github.com/somnus0917/markdown-editor)
-A local cross-platform Markdown editor with live preview, MathJax support
-and a clean Typora-inspired interface.
+### [RAFT Stereo Ultra](https://github.com/somnus0917/RAFT-Stereo)
+This is an improved project based on RAFT-Stereo (3DV 2021 stereo matching network). An optional convolutional refinement module (RefinementHead) is added after the disparity map output by the original model for residual correction. At the same time, the backbone network is reconstructed using depthwise separable convolution, resulting in a lightweight version of the model (RAFT-Stereo-Lite) with fewer parameters and faster inference.
 
 ### [FF Daily Summary](https://github.com/somnus0917/ffdaily-summary-miniprogram)
-A WeChat mini program for collecting and reporting daily e-commerce sales data.
+This is a combination of a WeChat mini-program and a lightweight Node.js backend, designed to quickly organize daily sales figures reported by various departments within WeChat groups into a sales summary text that can be directly copied and pasted into the headquarters group. 
 
 ### [Superlabel](https://github.com/somnus0917/superlabel)
-An e-commerce merchant data aggregation and operational analytics platform.
+SuperLabel is a lightweight desktop annotation tool developed based on Tauri, SolidJS, and Rust, focusing on rapid manual annotation of object detection datasets. It supports a local-first workflow and ONNX-assisted pre-annotation.
+
+### [ripfullpage](https://github.com/somnus0917/ripfullpage.git)
+This is a native Chrome screenshot extension based on Manifest V3, supporting full-page screenshots, custom area screenshots, screenshot editing, and PNG downloads, without relying on any frameworks or third-party libraries. 
 
 ## GitHub activity
 
