@@ -89,42 +89,42 @@
 ## Coding activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.14%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.17%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 184.0 kB Used in GitHub's Storage 
+> 📦 184.2 kB Used in GitHub's Storage 
  > 
-> 🏆 714 Contributions in the Year 2026
+> 🏆 727 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 37 Public Repositories 
+> 📜 38 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-🌆 Daytime                1052 commits        ███████████░░░░░░░░░░░░░░   45.29 % 
-🌃 Evening                711 commits         ████████░░░░░░░░░░░░░░░░░   30.61 % 
-🌙 Night                  245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+🌞 Morning                333 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+🌆 Daytime                1075 commits        ███████████░░░░░░░░░░░░░░   45.23 % 
+🌃 Evening                721 commits         ████████░░░░░░░░░░░░░░░░░   30.33 % 
+🌙 Night                  248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   500 commits         █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-Tuesday                  345 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Wednesday                448 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Thursday                 447 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Friday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Saturday                 176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Sunday                   145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Monday                   500 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Tuesday                  353 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Wednesday                466 commits         █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Thursday                 456 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Friday                   281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Saturday                 176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Sunday                   145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 ```
 
 
@@ -134,65 +134,62 @@ Sunday                   145 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     48 mins             █████████░░░░░░░░░░░░░░░░   37.15 % 
-Markdown                 26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Rust                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-HTML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-YAML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Rust                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Bash                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Markdown                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+HTML                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+YAML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
 
 🔥 Editors: 
-Zed                      1 hr 40 mins        █████████████████░░░░░░░░   68.47 % 
-Antigravity CLI          35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-Unknown Editor           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Zed                      1 hr 13 mins        ████████████████████████░   97.40 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 🐱‍💻 Projects: 
-somnus0917               1 hr 2 mins         ███████████░░░░░░░░░░░░░░   42.44 % 
-luopanhacker             41 mins             ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-resume                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-ghost-blog               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+luopanhacker             41 mins             ██████████████░░░░░░░░░░░   54.79 % 
+resume                   21 mins             ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+somnus0917               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+ecominsight              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 💻 Operating System: 
-Linux                    2 hrs 26 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (28.79%)
+⏱ AI Coding Time: 1 min (2.6%)
 
-✍️ 0 lines written by AI, 226 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 191 lines written by hand (0.0% AI-written)
 
 🔤 359,705 Input Tokens, 2,060 Output Tokens
 
 💵 $1.86 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 32 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 185 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 9 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     11 repos            █████████░░░░░░░░░░░░░░░░   35.48 % 
-Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Rust                     12 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
+Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 ```
 
 
 
 
- Last Updated on 30/07/2026 21:28:06 UTC
+ Last Updated on 01/08/2026 21:05:33 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
