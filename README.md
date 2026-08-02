@@ -134,46 +134,46 @@ Sunday                   145 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Bash                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Markdown                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-HTML                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-YAML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+TypeScript               27 mins             ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+Markdown                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Rust                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Bash                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+YAML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
 
 🔥 Editors: 
-Zed                      1 hr 13 mins        ████████████████████████░   97.40 % 
-VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Zed                      1 hr 6 mins         █████████████████░░░░░░░░   69.33 % 
+VS Code                  29 mins             ████████░░░░░░░░░░░░░░░░░   30.67 % 
 
 🐱‍💻 Projects: 
-luopanhacker             41 mins             ██████████████░░░░░░░░░░░   54.79 % 
-resume                   21 mins             ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-somnus0917               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-ecominsight              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+luopanhacker             1 hr 8 mins         ██████████████████░░░░░░░   72.09 % 
+ecominsight              18 mins             █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
 
 💻 Operating System: 
-Linux                    1 hr 15 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (2.6%)
+⏱ AI Coding Time: 32 mins (34.19%)
 
-✍️ 0 lines written by AI, 191 lines written by hand (0.0% AI-written)
+✍️ 44 lines written by AI, 13 lines written by hand (77.19% AI-written)
 
-🔤 359,705 Input Tokens, 2,060 Output Tokens
+🔤 4,505,240 Input Tokens, 27,867 Output Tokens
 
-💵 $1.86 Estimated AI Cost This Week
+💵 $23.30 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 4 AI Sessions, 11 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      47 lines            █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 9 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 77.19% of written lines came from AI
+📝 Concise Prompter — average 24 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 21.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -189,7 +189,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 21:05:33 UTC
+ Last Updated on 02/08/2026 21:02:01 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
