@@ -31,3 +31,5 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_OS: "True"
           SHOW_UPDATED_DATE: "True"
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
