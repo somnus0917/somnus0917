@@ -132,26 +132,25 @@ Sunday                   145 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     8 hrs 2 mins        ███████████████░░░░░░░░░░   61.60 % 
-TypeScript               1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Bash                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Python                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Rust                     7 hrs 54 mins       ███████████████░░░░░░░░░░   61.64 % 
+Bash                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Python                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🔥 Editors: 
-Zed                      10 hrs 10 mins      ███████████████████░░░░░░   77.94 % 
-VS Code                  2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Zed                      9 hrs 54 mins       ███████████████████░░░░░░   77.24 % 
+VS Code                  2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
 
 🐱‍💻 Projects: 
-oni-rocket-calculator    5 hrs 50 mins       ███████████░░░░░░░░░░░░░░   44.72 % 
-luopanhacker             4 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.14 % 
-candle-inspect           2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-ghost-blog               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+oni-rocket-calculator    5 hrs 50 mins       ███████████░░░░░░░░░░░░░░   45.54 % 
+luopanhacker             4 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.96 % 
+candle-inspect           2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+ghost-blog               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Mac                      13 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -167,7 +166,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 20:53:30 UTC
+ Last Updated on 11/08/2026 20:51:35 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
