@@ -89,8 +89,6 @@
 ## Coding activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2053%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.21%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -132,25 +130,26 @@ Sunday                   145 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     5 hrs 47 mins       ██████████████████████░░░   87.97 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-git ignore               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Rust                     5 hrs 5 mins        █████████████████░░░░░░░░   69.92 % 
+TOML                     1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+git ignore               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+jsonc                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-Zed                      6 hrs 29 mins       █████████████████████████   98.58 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Zed                      5 hrs 29 mins       ███████████████████░░░░░░   75.60 % 
+Codex Vscode             1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
 
 🐱‍💻 Projects: 
-oni-rocket-calculator    5 hrs 50 mins       ██████████████████████░░░   88.75 % 
-luopanhacker             25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-candle-inspect           16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-somnus0917               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+oni-rocket-calculator    5 hrs 18 mins       ██████████████████░░░░░░░   72.94 % 
+powerlevel10k-oh-my-zsh-p52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+w                        35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+language-server-rust-anal10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 💻 Operating System: 
-Mac                      6 hrs 34 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 1 min         ██████████████░░░░░░░░░░░   55.37 % 
+Linux                    3 hrs 14 mins       ███████████░░░░░░░░░░░░░░   44.63 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -166,7 +165,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 20:51:50 UTC
+ Last Updated on 13/08/2026 20:49:42 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
