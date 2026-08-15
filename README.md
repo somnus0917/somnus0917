@@ -89,38 +89,40 @@
 ## Coding activity
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.21%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2031%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 183.8 kB Used in GitHub's Storage 
+> 📦 186.9 kB Used in GitHub's Storage 
  > 
-> 🏆 788 Contributions in the Year 2026
+> 🏆 840 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 40 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-🌆 Daytime                1163 commits        ████████████░░░░░░░░░░░░░   46.59 % 
-🌃 Evening                746 commits         ███████░░░░░░░░░░░░░░░░░░   29.89 % 
-🌙 Night                  249 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+🌞 Morning                339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+🌆 Daytime                1186 commits        ███████████░░░░░░░░░░░░░░   45.83 % 
+🌃 Evening                795 commits         ████████░░░░░░░░░░░░░░░░░   30.72 % 
+🌙 Night                  268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   511 commits         █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-Tuesday                  354 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Wednesday                494 commits         █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Thursday                 523 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-Friday                   293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Saturday                 176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Sunday                   145 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Monday                   511 commits         █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Tuesday                  354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Wednesday                500 commits         █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Thursday                 533 commits         █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+Friday                   304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Saturday                 230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Sunday                   156 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 ```
 
 
@@ -130,42 +132,42 @@ Sunday                   145 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     5 hrs 5 mins        █████████████████░░░░░░░░   69.92 % 
-TOML                     1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-git ignore               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-jsonc                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Rust                     6 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.24 % 
+TOML                     1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+TypeScript               1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+YAML                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+CSS                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 
 🔥 Editors: 
-Zed                      5 hrs 29 mins       ███████████████████░░░░░░   75.60 % 
-Codex Vscode             1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+Zed                      7 hrs 1 min         █████████████░░░░░░░░░░░░   50.78 % 
+Codex Vscode             6 hrs 46 mins       ████████████░░░░░░░░░░░░░   49.06 % 
+Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-oni-rocket-calculator    5 hrs 18 mins       ██████████████████░░░░░░░   72.94 % 
-powerlevel10k-oh-my-zsh-p52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-w                        35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-language-server-rust-anal10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+koku                     4 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.87 % 
+oni-rocket-calculator    3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+luopanhacker             1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+sure                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+love                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 
 💻 Operating System: 
-Mac                      4 hrs 1 min         ██████████████░░░░░░░░░░░   55.37 % 
-Linux                    3 hrs 14 mins       ███████████░░░░░░░░░░░░░░   44.63 % 
+Linux                    13 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     13 repos            ██████████░░░░░░░░░░░░░░░   39.39 % 
-Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Rust                     14 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 ```
 
 
 
 
- Last Updated on 13/08/2026 20:49:42 UTC
+ Last Updated on 15/08/2026 20:26:53 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
