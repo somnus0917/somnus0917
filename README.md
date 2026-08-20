@@ -89,7 +89,7 @@
 ## Coding activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-183%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.29%20million%20lines%20of%20code-blue?style=flat)
 
@@ -97,7 +97,7 @@
 
 > 📦 188.9 kB Used in GitHub's Storage 
  > 
-> 🏆 936 Contributions in the Year 2026
+> 🏆 937 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,8 +109,8 @@
 
 ```text
 🌞 Morning                339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-🌆 Daytime                1197 commits        ███████████░░░░░░░░░░░░░░   44.60 % 
-🌃 Evening                850 commits         ████████░░░░░░░░░░░░░░░░░   31.67 % 
+🌆 Daytime                1197 commits        ███████████░░░░░░░░░░░░░░   44.58 % 
+🌃 Evening                851 commits         ████████░░░░░░░░░░░░░░░░░   31.69 % 
 🌙 Night                  298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -118,11 +118,11 @@
 ```text
 Monday                   527 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
 Tuesday                  407 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Wednesday                510 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Thursday                 533 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Friday                   304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Wednesday                510 commits         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Thursday                 534 commits         █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Friday                   304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
 Saturday                 230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Sunday                   173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Sunday                   173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 ```
 
 
@@ -132,27 +132,27 @@ Sunday                   173 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     10 hrs 32 mins      █████████████░░░░░░░░░░░░   52.92 % 
-TypeScript               2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-TOML                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-YAML                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-CSS                      1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Rust                     10 hrs 55 mins      ███████████████░░░░░░░░░░   58.94 % 
+TypeScript               2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+YAML                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+CSS                      1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-Zed                      12 hrs 26 mins      ████████████████░░░░░░░░░   62.51 % 
-Codex Vscode             7 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.50 % 
-Antigravity CLI          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Zed                      12 hrs 40 mins      █████████████████░░░░░░░░   68.41 % 
+Codex Vscode             5 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   30.53 % 
+Antigravity CLI          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-oni-rocket-calculator    7 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
-koku                     6 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.11 % 
-luopanhacker             1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-sure                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-love                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+oni-rocket-calculator    8 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.22 % 
+koku                     6 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.42 % 
+luopanhacker             1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+sure                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+love                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 
 💻 Operating System: 
-Linux                    19 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -168,7 +168,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 20:38:19 UTC
+ Last Updated on 20/08/2026 20:43:51 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
