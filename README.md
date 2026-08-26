@@ -24,7 +24,7 @@
 - 🎓 B.Eng. in Intelligent Manufacturing Engineering @ Southwest Jiaotong University
 - 🧭 Based in Nanjing
 - 🦀 Building and learning with Rust, Python, TypeScript and JavaScript
-- 🤖 Exploring LLM applications, developer tools and practical automation
+- 🤖 Interested in LLM systems, model tooling, RAG and practical AI applications
 - 💬 “Talk is cheap. Show me the code.”
 
 
@@ -58,33 +58,37 @@
 
 </div>
 
-## Featured projects
+# Featured projects
+
+### [Koku](https://github.com/somnus0917/koku)
+
+**Self-hosted finance platform.** A privacy-first personal finance application built with Rust, SQLite and TypeScript.
 
 ### [luopanhacker](https://github.com/somnus0917/luopanhacker)
-**Live website.** A TikTok e-commerce data platform for multi-store collection, analysis, and operations.
+
+**Live e-commerce platform.** A TikTok multi-store data collection, analytics and operations system.
 
 ### [RAFT Stereo Ultra](https://github.com/somnus0917/RAFT-Stereo)
-**Published undergraduate thesis.** A lightweight, refined RAFT-Stereo model for faster stereo matching.
 
-### [FF Daily Summary](https://github.com/somnus0917/ffdaily-summary-miniprogram)
-**Live WeChat Mini Program.** Turns daily sales updates into shareable summaries in seconds.
+**Undergraduate research project.** A lightweight RAFT-Stereo implementation focused on efficient stereo matching.
 
 ### [Superlabel](https://github.com/somnus0917/superlabel)
-**Released desktop app.** A local-first object-detection annotation tool with ONNX-assisted labeling.
 
-### [ripfullpage](https://github.com/somnus0917/ripfullpage.git)
-**Live on the Chrome Web Store.** A native extension for full-page and area screenshots.
+**Released desktop app.** A local-first object detection annotation tool with ONNX-assisted labeling.
+
+### [ripfullpage](https://github.com/somnus0917/ripfullpage)
+
+**Chrome Web Store extension.** A native browser extension for full-page and region screenshots.
+
 
 ## GitHub activity
 
-<div align="center">
-<img
-  width="96%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=somnus0917&theme=github-compact&hide_border=true&area=true"
-  alt="GitHub contribution activity graph"
-/>
-<br>
-</div>
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+    width="96%"
+  />
+</p>
 
 ## Coding activity
 
