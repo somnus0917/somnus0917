@@ -93,15 +93,13 @@
 ## Coding activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2024%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.37%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2027%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 188.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,012 Contributions in the Year 2026
+> 🏆 1,030 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,53 +107,27 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-🌆 Daytime                1233 commits        ██████████░░░░░░░░░░░░░░░   42.00 % 
-🌃 Evening                988 commits         ████████░░░░░░░░░░░░░░░░░   33.65 % 
-🌙 Night                  361 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   547 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-Tuesday                  498 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Wednesday                517 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Thursday                 535 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Friday                   343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Saturday                 287 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Sunday                   209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     12 hrs 29 mins      █████████████████░░░░░░░░   66.03 % 
-TypeScript               3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-CSS                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-
-🔥 Editors: 
-Zed                      12 hrs 53 mins      █████████████████░░░░░░░░   68.18 % 
-Codex Vscode             5 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.90 % 
-Antigravity CLI          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Rust                     13 hrs 46 mins      █████████████████░░░░░░░░   66.62 % 
+TypeScript               3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+CSS                      2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🐱‍💻 Projects: 
-oni-rocket-calculator    10 hrs 40 mins      ██████████████░░░░░░░░░░░   56.46 % 
-koku                     6 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.90 % 
-love                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-luopanhacker             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+oni-rocket-calculator    12 hrs 33 mins      ███████████████░░░░░░░░░░   60.72 % 
+koku                     6 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   32.40 % 
+love                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+luopanhacker             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+somnus0917               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-Linux                    18 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -171,7 +143,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 20:43:41 UTC
+ Last Updated on 26/08/2026 22:26:26 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
