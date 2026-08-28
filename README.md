@@ -93,7 +93,7 @@
 ## Coding activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2043%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -113,21 +113,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     13 hrs 46 mins      █████████████████░░░░░░░░   66.62 % 
-TypeScript               3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-CSS                      2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Rust                     12 hrs 4 mins       ████████████████░░░░░░░░░   63.03 % 
+TypeScript               3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+CSS                      2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🐱‍💻 Projects: 
-oni-rocket-calculator    12 hrs 33 mins      ███████████████░░░░░░░░░░   60.72 % 
-koku                     6 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   32.40 % 
-love                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-luopanhacker             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-somnus0917               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+oni-rocket-calculator    10 hrs 51 mins      ██████████████░░░░░░░░░░░   56.67 % 
+koku                     6 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.96 % 
+love                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+leetcode-playground      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+luopanhacker             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-Linux                    20 hrs 40 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -143,7 +143,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 22:26:26 UTC
+ Last Updated on 28/08/2026 03:39:38 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
