@@ -113,21 +113,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     8 hrs 3 mins        ██████████████████░░░░░░░   73.95 % 
-CSS                      1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Rust                     7 hrs 4 mins        ██████████████████░░░░░░░   72.25 % 
+CSS                      1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🐱‍💻 Projects: 
-oni-rocket-calculator    7 hrs 31 mins       █████████████████░░░░░░░░   69.07 % 
-koku                     2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
-leetcode-playground      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-somnus0917               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-ji                       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+oni-rocket-calculator    6 hrs 25 mins       ████████████████░░░░░░░░░   65.63 % 
+koku                     2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+leetcode-playground      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+somnus0917               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+ji                       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 💻 Operating System: 
-Linux                    10 hrs 53 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -143,7 +143,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 22:00:25 UTC
+ Last Updated on 31/08/2026 23:18:43 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
