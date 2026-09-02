@@ -97,9 +97,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 188.3 kB Used in GitHub's Storage 
+> 📦 188.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,038 Contributions in the Year 2026
+> 🏆 1,041 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,21 +113,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     2 hrs 32 mins       █████████████████░░░░░░░░   68.39 % 
-CSS                      34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-KDL                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Python                   12 mins             ████████████░░░░░░░░░░░░░   48.63 % 
+KDL                      11 mins             ███████████░░░░░░░░░░░░░░   45.22 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Rust                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-oni-rocket-calculator    3 hrs 7 mins        █████████████████████░░░░   83.99 % 
-leetcode-playground      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-somnus0917               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-ji                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+leetcode-playground      12 mins             ████████████░░░░░░░░░░░░░   48.63 % 
+ji                       7 mins              ███████░░░░░░░░░░░░░░░░░░   28.73 % 
+Unknown Project          4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+somnus0917               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+oni-rocket-calculator    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 💻 Operating System: 
-Linux                    3 hrs 42 mins       █████████████████████████   100.00 % 
+Linux                    26 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -143,7 +143,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 21:56:51 UTC
+ Last Updated on 02/09/2026 21:56:43 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
