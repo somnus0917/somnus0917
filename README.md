@@ -113,21 +113,14 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 mins             ████████████░░░░░░░░░░░░░   48.63 % 
-KDL                      11 mins             ███████████░░░░░░░░░░░░░░   45.22 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Rust                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+KDL                      11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-leetcode-playground      12 mins             ████████████░░░░░░░░░░░░░   48.63 % 
-ji                       7 mins              ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-Unknown Project          4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-somnus0917               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-oni-rocket-calculator    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+ji                       7 mins              ████████████████░░░░░░░░░   63.52 % 
+Unknown Project          4 mins              █████████░░░░░░░░░░░░░░░░   36.48 % 
 
 💻 Operating System: 
-Linux                    26 mins             █████████████████████████   100.00 % 
+Linux                    11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -143,7 +136,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 21:56:43 UTC
+ Last Updated on 03/09/2026 21:51:43 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
