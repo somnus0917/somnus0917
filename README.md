@@ -113,14 +113,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-KDL                      11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ji                       7 mins              ████████████████░░░░░░░░░   63.52 % 
-Unknown Project          4 mins              █████████░░░░░░░░░░░░░░░░   36.48 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
@@ -136,7 +135,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 21:44:10 UTC
+ Last Updated on 05/09/2026 21:37:01 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
