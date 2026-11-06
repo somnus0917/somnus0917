@@ -93,6 +93,8 @@
 ## Coding activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%209%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 188.4 kB Used in GitHub's Storage 
@@ -133,7 +135,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2026 00:30:54 UTC
+ Last Updated on 06/11/2026 23:46:55 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
